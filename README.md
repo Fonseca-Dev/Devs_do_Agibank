@@ -43,7 +43,7 @@ Cada exercício explora um aspecto importante de Streams, como `filter`, `map`, 
 
 ## 📂 Estrutura do projeto
 
-- `src/Exercicio_01/Main.java` → contém a resolução de todos os exercícios.  
+- `src/Main.java` → contém a resolução de todos os exercícios.  
 
 ---
 
